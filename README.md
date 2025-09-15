@@ -2,7 +2,8 @@
 
 **`Desenvolvedor`**
 
-Olá! Meu nome é Gleison Silva de Souza, tenho 26 anos e sou estudante do 3º ano de Ciência da Computação na UESB. Sou apaixonado por tecnologia, especialmente nas áreas de **Machine Learning** e **Modelos de Linguagem Generativa**.
+Olá! Meu nome é Gleison Silva de Souza, tenho 26 anos e sou estudante do 3º ano de Ciência da Computação na UESB. Sou fascinado por tecnologia, especialmente nas áreas de **Machine Learning**, **Modelos de Linguagem Generativa** e **
+Sistemas Inteligentes**.
 
 Busco constantemente aprimorar meus conhecimentos desenvolvendo projetos práticos nessas áreas, muitos dos quais estão disponíveis aqui no meu GitHub (estou adicionando projtos desenvolvidos localmente). Tenho interesse em aplicar soluções inovadoras com inteligência artificial e contribuir em projetos de código aberto.
 
